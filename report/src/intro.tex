@@ -7,4 +7,30 @@ Briefly describe what is the state of the art and how you’re pushing it with y
 Also mention what data and methods you use in your work. 
 Conclude by clearly stating what is your contribution.
 
-Wikipedia categories serve as topic definitions of resources in DBpedia.
+Problem definition by illustrative example.
+
+Wikipedia categories define topics of resources in DBpedia.
+For example, the entity of type 'work' 'The Shining (novel)' \footnote{https://dbpedia.org/page/The\_Shining\_(novel)} in DBpedia is defined through \textit{dct:subject} property with several category URIs derived from Wikipedia, including the category 'Novels by Stephen King'\footnote{https://dbpedia.org/page/Category:Novels\_by\_Stephen\_King}.
+This category, which is formally a \textit{skos:Concept}, has such implicit information as type of written work, fiction genre ('Novel') and author ('Stephen King').
+However, this implicit human-readable information included in a Wikipedia URI does not bring any additional formal semantics to the resource in DBpedia.
+Which properties of the resource 'The Shining (novel)' help automatically reason that it belongs to the category 'Novels by Stephen King'?
+What are the common properties of the resources, which are defined through the same Wikipedia category?
+Is it possible to detect such properties and assign new classes automatically, so that the nuanced categorisation of the resources can be made machine interpretable?
+This empirical semantics observations drive our research question and the experimental set-up, which aims to enrich the DBpedia ontology based on Wikidata categorisation. 
+
+About the method.
+Why do we focus on embeddings?
+We experiment with knowledge graph embeddings (in particular, RDF2vec) because..
+
+About Related Work.
+There is work where embeddings were used to create class hierarchies, but not to predict classes (?)
+This is what novel in our direction.
+
+About the data.
+For our experiment, we manually picked 13 categories from DBpedia that represent tangible and intangible real-world objects (such as books, persons, languages) and can be easily described with several properties.
+We collected all triples contained in the selected categories, taking only triples with DBpedia ontology predicates, since we aim at enriching this ontology.
+Additionally, we filtered out triples referring to Wikidata identifiers (such as 'dbo:wikiPageID') and triples with literal values as they are not relevant for our study.
+The detailed data overview is presented in Section 5.
+
+Contributions.
+Results of the experiment.
