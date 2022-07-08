@@ -1,0 +1,14 @@
+freq,p,o,rank,sum_freq,freq_dbpedia,tf,idf,tf_idf,rank_tf_idf
+25,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Turkey,1,61,15441,0.4098360655737705,6.068348829570942,2.48702820884055,2
+19,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Aegean_Sea,2,61,28,0.3114754098360656,12.380925907716602,3.856353971255991,1
+7,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Greece,3,61,3820,0.11475409836065574,7.465124716291186,0.856653655967841,3
+1,http://dbpedia.org/ontology/politicalLeader,http://dbpedia.org/resource/Aegean_Islands__PoliticalFunction__1,4,61,1,0.01639344262295082,15.713130417891806,0.2575923019326526,4
+1,http://dbpedia.org/ontology/archipelago,http://dbpedia.org/resource/Aegean_Islands,4,61,2,0.01639344262295082,15.01998323733186,0.24622923339888297,6
+1,http://dbpedia.org/ontology/subdivision,http://dbpedia.org/resource/South_Aegean,4,61,21,0.01639344262295082,12.668607980168384,0.20768209803554727,11
+1,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Eastern_Mediterranean,4,61,1,0.01639344262295082,15.713130417891806,0.2575923019326526,4
+1,http://dbpedia.org/ontology/subdivision,http://dbpedia.org/resource/Thessaly,4,61,6,0.01639344262295082,13.921370948663752,0.22821919587973363,7
+1,http://dbpedia.org/ontology/timeZone,http://dbpedia.org/resource/Eastern_European_Summer_Time,4,61,25491,0.01639344262295082,5.567049690220156,0.09126310967574026,13
+1,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Prefectures_of_Greece,4,61,12,0.01639344262295082,13.228223768103806,0.21685612734596404,10
+1,http://dbpedia.org/ontology/subdivision,http://dbpedia.org/resource/Municipalities_and_communities_of_Greece,4,61,7,0.01639344262295082,13.767220268836493,0.2256921355546966,9
+1,http://dbpedia.org/ontology/subdivision,http://dbpedia.org/resource/Provinces_of_Greece,4,61,6,0.01639344262295082,13.921370948663752,0.22821919587973363,7
+1,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Regional_units_of_Greece,4,61,73,0.01639344262295082,11.422670976743415,0.18725690125808878,12

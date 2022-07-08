@@ -1,0 +1,7 @@
+freq,p,o,rank,sum_freq,freq_dbpedia,tf,idf,tf_idf,rank_tf_idf
+2,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Italy,1,8,12894,0.25,6.248613052021241,1.5621532630053103,4
+2,http://dbpedia.org/ontology/region,http://dbpedia.org/resource/Emilia-Romagna,1,8,339,0.25,9.887130310511356,2.471782577627839,1
+1,http://dbpedia.org/ontology/province,http://dbpedia.org/resource/Province_of_Forlì-Cesena,3,8,30,0.125,12.311933036229652,1.5389916295287065,5
+1,http://dbpedia.org/ontology/province,http://dbpedia.org/resource/Province_of_Piacenza,3,8,45,0.125,11.906467928121486,1.4883084910151858,6
+1,http://dbpedia.org/ontology/frazioni,http://dbpedia.org/resource/Vigolo_Marchese,3,8,1,0.125,15.713130417891806,1.9641413022364758,2
+1,http://dbpedia.org/ontology/saint,http://dbpedia.org/resource/Catherine_of_Alexandria,3,8,7,0.125,13.767220268836493,1.7209025336045616,3

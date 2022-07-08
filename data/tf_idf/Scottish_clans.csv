@@ -1,0 +1,8 @@
+freq,p,o,rank,sum_freq,freq_dbpedia,tf,idf,tf_idf,rank_tf_idf
+1,http://dbpedia.org/ontology/child,http://dbpedia.org/resource/Conganchnes_mac_Dedad,1,7,1,0.14285714285714285,15.713130417891806,2.2447329168416865,1
+1,http://dbpedia.org/ontology/child,http://dbpedia.org/resource/Conaille_Muirtheimne,1,7,1,0.14285714285714285,15.713130417891806,2.2447329168416865,1
+1,http://dbpedia.org/ontology/child,http://dbpedia.org/resource/Dáire_mac_Dedad,1,7,1,0.14285714285714285,15.713130417891806,2.2447329168416865,1
+1,http://dbpedia.org/ontology/child,http://dbpedia.org/resource/Íar_mac_Dedad,1,7,1,0.14285714285714285,15.713130417891806,2.2447329168416865,1
+1,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/United_Kingdom,1,7,43944,0.14285714285714285,5.02245904286935,0.7174941489813357,7
+1,http://dbpedia.org/ontology/soundRecording,http://dbpedia.org/resource/Clan_Campbell__Sound__1,1,7,1,0.14285714285714285,15.713130417891806,2.2447329168416865,1
+1,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Scotland,1,7,3276,0.14285714285714285,7.618751972918846,1.0883931389884065,6
